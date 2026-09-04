@@ -80,13 +80,6 @@ The dashboard highlights the top-performing products based on YTD sales and iden
 - Interactive KPI cards
 - DAX-based calculations
 
-## Dashboard Preview
-
-![Amazon Sales Analysis Dashboard](dashboard.png)
-
-## Live Dashboard
-
-[View Interactive Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)
 
 ## Project Files
 
